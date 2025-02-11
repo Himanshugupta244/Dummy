@@ -1,0 +1,2336 @@
+SARAN S : Completed BTECH 2022, Civil.
+
+Chakkarwarthi M : Manual Tester 
+
+Amrutha : MCA 2020, Manual Tester
+
+Vankata Satya : BTECH 2012, TCS, Manual Testing, Automation Testing
+
+Vidya C : Corporate Trainer from 10 years
+
+Kumaran : BTECH 2014, Freelancing in banking
+
+Roopa Sounthari : MBA 2nd year
+
+Gopi Krishna : Bcome, Senior QA Engineer 6 years.
+
+Shamini : BTECH 2017, Business Analyst
+
+Arun Vignesh : Manual Tester
+
+Vaishnavi : Manual Tester 
+
+MG Deepika : Bsc (CS)
+
+Surya : Manual Tester in Wipro
+
+Rosemary : Manual Tester
+
+S OOviya : Non-IT Professional
+
+Joyson : BTECH 2021, Manual Tester TCS
+
+Priya Darshini - Manual Tester 
+
+=============================================================================================
+
+Date : 24-Jan-2025
+
+A GOOD POINT ABOUT ALL OF YOU IS THAT YOU GUYS ARE FROM SOUTH SIDE OF INDIA AND THE BEST PART IS THAT YOU HAVE A VERY GOOD
+COMMUNICATION SKILLS..
+
+EVERY TESTER SHOULD HAVE A GOOD COMMUNICATION SKILLS OTHERWISE HE/SHE CANT SUCCESSED IN IT INDUSTRY TO A LARGER LEVEL.
+
+WHY ?
+
+Basic Example : 
+
+As a developer, he has build a software.
+As a tester, he/she has tested it.
+
+But now, it is the time to showcase this software to "CLIENT".
+
+WHO WILL SHOWCASE IT ?
+
+TESTER will showcase it to the client.
+And if a tester is not having good communication skills, then that tester needs to struggle a lot.
+
+==============================================================================================
+
+WHAT IS TESTING ?
+
+WE ARE TESTING WHETHER THE PRODUCT IS WORKING AS PER THE REQUIREMENT OR NOT ?
+
+==============================================================================================
+
+WHY TESTING ? / WHAT IS THE NEED OF TESTING ?
+
+IF THE PRODUCT IS HAVING BUGS THEN IT WILL IMPACT THE CUSTOMERS AND CUSTOMER WILL NOT USE OUR PRODUCT.
+TESTING IS DONE TO MAKE SURE THAT WE ARE DELIVERING THE QUALITY PRODUCT.
+
+==============================================================================================
+
+WHY TESTER ? (WHY A DEVELOPER CANT TEST AN APPLICATION) ?
+
+A TESTER IS THE ONE WHO THINKS OF THE POSITIVE AND NEGATIVE TEST CASES BUT DEVELOPER SEEM TO BE BIASED AND ONLY THINK ABOUT 
+POSITIVE TEST CASES.
+
+==============================================================================================
+
+WHAT ARE TESTING MYTHS : 
+
+1st Testing Myth is : 
+100% Testing is possible.
+
+Answer is : No, 100% Testing is not possible.
+
+We can take the best examples like Google, Microsoft and we can clearly say that these big websites (big names) are also having 
+bugs. These websites are not 100% bug free.
+
+----------------------------------------------------------------------------------------------
+
+2nd Testing Myth is : 
+Testing is very costly.
+
+Answer is : Testing is not costly but it is a cost saving thing.
+
+----------------------------------------------------------------------------------------------
+
+3rd Testing Myth is : 
+Testing is very time taking process.
+
+Answer is : Testing is very time saving process.
+
+----------------------------------------------------------------------------------------------
+
+Testing Ways : (How Testing is done) : 
+
+There are 4 ways of doing software testing : 
+1) Manual Testing
+2) Automation Tesing
+3) Database Testing
+4) API Testing
+
+==============================================================================================
+
+MANUAL TESTING : 
+
+THERE ARE SO MANY TYPES OF TESTING WE NEED TO LEARN.
+
+Note : In websites, there are so many irrelevant testing types that we dont need to learn,
+whatever we are learning in the classes, we need to learn them only.
+
+==============================================================================================
+
+1) Functional Testing
+
+Functional Testing is a type of testing in which we check the functionality of an application/software/product.
+
+Example : In Facebook login page, we check whether we are able to login successfully or not ?
+
+==============================================================================================
+
+2) UI Testing or GUI Testing (Graphical User Interface) : 
+
+UI Testing is a type of testing in which we check that look and feel of an application/software/product.
+
+For example : We check that font size, color, styling, grammatical mistakes etc.
+
+===============================================================================================
+
+3) Positive Testing : 
+
+Positive Testing is a type of testing in which we check the happy path of an application/software/product.
+
+For Example : For Facebook Login Page, we check for valid username and valid password, user should login successfully.
+
+===============================================================================================
+
+4) Negative Testing : 
+
+Negative Testing is a type of testing in which we check all the invalid scenarios of an application/software/product.
+
+For Example : For Facebook Login Page, we check for below test cases : 
+
+correct username and incorrect password
+incorrect username and correct password
+incorrect username and incorrect password
+
+================================================================================================
+
+5) Black Box Testing : 
+
+- Black Box Testing is a type of testing which is done by tester.
+- In black box testing, no coding knowledge is required.
+- Functional Testing is a type of Black Box Testing.
+
+===============================================================================================
+
+6) White Box Testing : 
+
+- White Box Testing is a type of testing which is done by developer.
+- In White Box Testing, Coding Knowledge is required.
+- Unit Testing is a type of White Box Testing.
+
+==============================================================================================
+
+7) Gray Box Testing : 
+
+- Gray Box Testing is a type of testing in which a tester sit with developer to enhance the test cases.
+- In Gray Box Testing, Partial Coding Knowledge is required. 
+
+==============================================================================================
+
+8) Module Testing : 
+
+Module Testing is a type of testing in which we individually test the modules of an application/software/product.
+
+==============================================================================================
+
+9) Integration Testing : 
+
+When 2 or more modules are integrated together and we are doing the testing, we call it a integration testing.
+
+==============================================================================================
+
+10) System Testing (End To End Testing) : 
+
+System Testing is a type of testing in which we test the complete system as a whole.
+
+==============================================================================================
+
+11) Smoke Testing : 
+
+- This is a first level of testing.
+- Smoke Testing is a type of testing in which we check whether the build is stable enough to do the further testing or not.
+- It is a generalized health check up of an application/software/product.
+
+For Example : If we are supposed to test the Facebook application but we are not able to login to facebook, it means
+our website is not stable to test it further.
+
+We just whether the application/software/product is stable enough to do the further testing or not ??
+
+===============================================================================================
+
+12) Sanity Testing : 
+
+- Sanity Testing is a type of testing in which we do the specialized health check of an application/software/product.
+- Whenever a bug is fixed, we check that all the core functionalities are working fine.
+
+==============================================================================================
+
+13) Regression Testing : 
+
+Regression testing is a type of testing in which we check the impact of code changes in an application/software/product.
+
+Regression Testing comes into the picture in 2 cases : 
+1) Whenever there is bug fix, we need to check the impact areas also (not only the bug itself).
+2) Whenever there is a new feature that has been introduced in the system/application, we need to check the nearby 
+impacted areas.
+ 
+===============================================================================================
+
+14) Compatibilty Testing : 
+
+Compatibilty Testing is a type of testing in which we check the compatibility of our application/software/product on : 
+
+- different browsers
+- different screen sizes
+- different OS
+- different networks etc.
+
+For Example : 
+I have a new website say abcd.com, now we need to check this wesbite on : 
+
+- different browsers : Chrome, Safari, Firefox, Edge, OperaMini, Windows Explorer.
+- different screen sizes : different mobile sizes, Tablet, Laptops etc.
+- different Operating Systems like : Windows, Mac, iOS, Andriod, Linux etc.
+- different networks : 2G, 3G, 4G, Mobile Data, Wifi network etc.
+
+==============================================================================================
+
+15) Cross Browser Testing : 
+
+Cross Browser Testing is a type of testing in which we test our application/software/product on different browsers.
+
+Like : Chrome, Safari, Firefox, Edge, OperaMini, Windows Explorer.
+
+Cross Browser Testing is a subset of Compatibilty Testing.
+
+==============================================================================================
+
+Date : 27-Jan-2025
+
+16) Exploratory Testing : 
+
+- Exploratory Testing is a type of testing in which a tester explores the application/software/product.
+- This testing is not documented (we never write any test case/scenario).
+
+This type of testing comes in 2 places : 
+1) Whenever we join a new organiation.
+2) Whenever we got a new project to test.
+
+In this type of testing we explore the application, how is it working and what it is intended for ?
+
+==============================================================================================
+
+17) Monkey Testing : 
+
+- This is a type of testing which is never documented.
+- This type of testing is done to break the application/software/product.
+
+Agenda : To check whether all the cases are prefectly handled by the developer ot not ?
+
+==============================================================================================
+
+18) Acceptance Testing/User Acceptance Testing (UAT) : 
+
+- Famous short form is UAT.
+- In this type of testing we check whether our application/software/product is acceptable or not ?
+
+There are 2 types of UAT : 
+1) Alpha Testing
+2) Beta Testing 
+
+Alpha testing is a type of UAT in which the application is tested by internal employee of the organiation.
+Beta Testing is a type of UAT in which the application is tested by external users (outside the organiation).
+
+===============================================================================================
+
+19) Performance Testing : 
+
+- Performance Testing is a type of testing in which we check how my application/software/product is performing under load.
+-  This is also called non-functional testing.
+- We have tools to do performance testing : LoadRunner, JMeter.
+
+There are two types of performance testing.
+
+- Load testing
+- Stress Testing
+
+===============================================================================================
+
+20) Load Testing : 
+
+- Load Testing is a type of performance testing in which we increase the load till we achieve the breakpoint.
+- We check how my application/software/product works under load.
+
+21) Stress Testing : 
+
+- Stress testing is a type of testing in which we increase more load (after achieving the breakpoint), and we check 
+how our application performs after the breakpoint is achieved.
+
+===============================================================================================
+===============================================================================================
+
+SDLC (Software Developement Life Cycle)
+STLC (Software Testing Life Cycle) 
+
+===============================================================================================
+
+SDLC : It means Software Developement Life Cycle : 
+
+SDLC - we have 6 phases : 
+1) Planning
+2) Analysis
+3) Design
+4) Implementation
+5) Testing
+6) Maintainance 
+
+==============================================================================================
+
+Planning : 
+
+Analysis : 
+
+Design : means creating the framework/architecture of the code.
+
+Implementation means coding
+
+Testing : In this phase, testing is done.
+
+Maintainance : Means any issues that come after live/production, we need to get it fixed.
+
+==============================================================================================
+
+STLC : Software Testign Life Cycle : 
+
+1) Requirement Analysis
+2) Test Planning
+3) Test Case Design
+4) Test Environment SetUp
+5) Test Execution
+6) Test Closure Activity
+
+1) Requirement Analysis : All the testers are analysing the requirement.
+QAs are reading the RSD (requirement specification document).
+
+2) Test Planning
+
+3) Test Case Design : QAs are writing the test cases.
+
+4) Test Environment SetUp : We check whether the test environment are up and running.
+
+Test Environment / Test Servers : Servers in which we do the testing.
+
+5) Test Execution : QAs are executing the test cases and logging bugs.
+
+6) Test Closure activity : In this phase, the QA test and closes the bugs and closes the user story (a small part of project).
+
+==============================================================================================
+
+Levels of testing : 
+
+1) Module Testing 
+2) Integration Testing
+3) System Testing (End to End Testing)
+4) Acceptance Testing 
+
+==============================================================================================
+
+Waterfall Model : (This is very important for interview purpose).
+
+- This model is not used in IT Industry (or very very rarely used).
+- In this model, Tesitng is done when the complete development is done.
+
+1) Requirement Analysis
+2) Design
+3) Development
+4) Testing
+5) Deployment
+6) Maintainance
+
+This model is obselete from the market.
+No-one is using this waterfall model.
+
+==============================================================================================
+
+Agile Model : 
+
+Agile Model means we always welcomes the change.
+Developement and testing goes hand in hand (parallel).
+
+==============================================================================================
+
+V and V Model : 
+
+Verification and Validation model : 
+
+
+Check the recorded videos (no notes for this topic - screenshots are shared over email).
+
+==============================================================================================
+
+Test Case and Test Scenario and Test Case Design Template or Test Case Template : 
+
+Check the recorded videos (no notes for this topic - screenshots are shared over email).
+
+Test Scenario and Test Cases is One to Many Mapping, it means one test scenario can have any number of test cases.
+
+==============================================================================================
+
+Topics for Tomorrow : 
+
+QA and QC
+
+Test Case Design Techniques : 
+
+1) Error Guessing
+2) Boundary Value Analysis
+3) Decision Table
+4) State Transition Matrix
+5) Equivalence Partitioning.
+
+Priority and Severity
+
+===============================================================================================
+
+
+28-Jan-25
+
+Revision of below topics : 
+
+V Model - Done
+----------------------------------------------------------------------------------------------
+
+Sanity Testing and module testing.
+
+----------------------------------------------------------------------------------------------
+
+Smoke and Sanity
+
+----------------------------------------------------------------------------------------------
+
+Exploratory and Monkey
+
+----------------------------------------------------------------------------------------------
+
+Regression Testing
+
+----------------------------------------------------------------------------------------------
+
+Difference between TC and TS
+
+----------------------------------------------------------------------------------------------
+
+Agile Model
+
+----------------------------------------------------------------------------------------------
+
+Deepikha Assignment
+
+----------------------------------------------------------------------------------------------
+
+Structural Testing
+
+----------------------------------------------------------------------------------------------
+
+Test Bed : 
+
+What is test bed ??
+
+This WORD is very very important for interview.
+
+Preparing the test environments (test server, Test database etc).
+
+----------------------------------------------------------------------------------------------
+
+QA and QC:
+
+QA : Quality Analysis
+QC : Quality Control
+
+Check the recorded videos (screenshots are shared over email).
+
+---------------------------------------------------------------------------------------------
+
+Test Case Design Techniques : 
+
+First Technique : 
+
+1) Error Guessing : In this technique an experience tester guide you the important areas of an application which are very critical/important to test.
+
+Check the recorded videos (screenshots are shared over email).
+
+2) Boundary Value Analysis (BVA) : 
+
+Check the recorded videos (screenshots are shared over email).
+
+We check always for 6 values : 
+
+-1 of floor value, floor value, +1 of floor value, -1 of roof value, roof value, +1 of roof value.
+
+20 - 60 : 
+
+19, 20, 21, 59, 60, 61
+
+3) Equivalence Partitioning : 
+
+Check the recorded videos (screenshots are shared over email).
+
+4) Decision Table : 
+
+Check the recorded videos (screenshots are shared over email).
+
+5) State Transition Matrix : 
+
+Check the recorded videos (screenshots are shared over email).
+
+---------------------------------------------------------------------------------------------
+
+Priority And Severity : 
+
+THIS IS VERY VERY VERY VERY VERY VERY VERY IMPORTANT FOR INTERVIEW.
+DONT GO FOR INTERVIEW IF YOU HAVE NOT PREPARED THESE 2 TOPICS.
+
+
+PRIORITY : In which order we need to get a bug fixed.
+
+SEVERITY : What is the functional impact of a bug if I don't get it fixed.  
+
+--------------------------------------------------------------------------------------------
+
+High Priority and Low Severity - A logo of any website is tilted/broken.
+
+High Priority and High Severity - Search functionality is not working in any ecommerce website.
+
+Low Priority and Low Severity - A type error in the footer section of the page.
+
+Low Priority and High Severity : A button which is very very rarely used in an ecommerce website.
+
+Another example : Any link on Terms and Condition is not working so its a high severity but low priority bug.
+
+============================================================================================
+
+AGILE : 
+
+- This AGILE was introduced in 2000.
+- JEFF Sutherland is considered as the FATHER of agile.
+- 22 People sat together and they made a document named as "AGILE MANIFESTO".
+- This agile manifesto says that we need to follow the principles of Project management.
+
+AGILE is used to manage a PROJECT.
+
+When I say project - it means any project.
+
+============================================================================================
+
+12 principles of AGILE.
+
+Agile welcomes the change.
+
+TERM (VERY rare people know about this term) - Empericism (Emperical approach).
+
+===========================================================================================
+
+AGILE IS METHODOLOGY.
+
+- SCRUM IS A FRAMEWORK.
+- Safe 
+- Spotify model
+
+NOTE : Never say that agile is a framework. Never say that scrum is a model. Never say that scrum is methodology.
+
+===========================================================================================
+
+5 scrum ceremonies : 
+
+1) DSM - Daily Scrum Meeting
+2) Backlog Grooming.
+3) Sprint Planning.
+4) Sprint Review
+5) Retrospective Meeting.
+
+===========================================================================================
+
+WHAT ARE SCRUM TEAM MEMBERS (WHAT IS A SCRUM TEAM CONSIST OF) - WHAT IS A SCRUM TEAM ?
+
+- Scrum Master
+- Product Owner
+- Developers - Developers and Testers.
+
+===========================================================================================
+
+Who is a developer ?
+
+deveoloping the product/ testing the product.
+
+Who is a product owner ?
+
+product owner is the one who gives the requirement to us (devs) from client.
+
+scrum master : 
+
+scrum master is a leader ( this term shows the bossy nature, or rude).
+scrum master is a leader who serves ( this term shows that you also serves the organiation). (this is the updated line in scrum guide).
+
+
+scrum master is the brand ambassador of the team.
+
+===========================================================================================
+follow up question:
+
+I (dev) having a doubt in requirement, who will give me requirment clarification (PO or SM)?
+
+one question here also: SM will not understand the requirement?
+
+===========================================================================================
+
+5 scrum ceremonies : 
+
+1) DSM : (Daily Scrum Meeting / Daily StandUp meeting)
+
+what are the 3 agenda of DSM : 
+
+- what I have done yesterday
+- what will i do today 
+- is there any roadblock / blocker / any major issue.
+
+DSM is always conducted at fix time : 
+
+09:30 Am / 10:00 AM (but it is always at some fixed time).
+
+TEAM SHOULD BE SELF ORGANIZED : 
+
+WHAT WHEN AND HOW ? everyone should know what to do , when to do and how to do ??
+
+-------------------------------------------------------------------------------------------
+
+2) Backlog grooming : 
+
+PO is explaining the requirement to developers.
+
+this takes like 2 hours 
+-------------------------------------------------------------------------------------------
+
+sprint : we have to complete set of user stories in a span of 15 days, this 15 days is called sprint.
+
+2 weeks sprint - 15 days.
+
+------------------------------------------------------------------------------------------
+
+3) Sprint Planning : 
+
+we are planning what are the stories that we are going to complete in next 15 days.
+
+------------------------------------------------------------------------------------------
+
+4) Sprint review : 
+
+working piece of software => we need to showcase it to the client.
+
+client can suggest any suggestions etc.
+
+-----------------------------------------------------------------------------------------
+
+5) Sprint Retrospective meeting : 
+
+what are 3 agends of sprint retro : 
+
+1) what went well ?
+2) what went wrong ?
+3) what are action items that we need to take to improve further.
+
+-----------------------------------------------------------------------------------------
+
+What are the 5 scrum values : 
+
+1) Respect 
+2) Courage 
+3) Openness
+4) Focus
+5) commitment
+
+========================================================================================
+
+what are the 3 scrum pillars : 
+
+1) Transparency 
+2) Inspection
+3) Adaption
+
+========================================================================================
+
+JIRA is a project management tool.
+
+========================================================================================
+
+VERY VERY VERY IMPORTANT QUESTION FOR MANUAL TESTING INTERVIEW : 
+
+What is the different between "Bug Leakage" and "Bug Release" ?
+
+Bug Leakage -> Whenever a tester misses a bug on test environment and the same has been caught by Client/Product owner.
+
+Bug Release -> Whenever we know there is a bug in the system, still we are going live with this bug.
+
+========================================================================================
+
+Bug Drafting (how to draft a bug/ how to log a bug) : 
+
+Whenever we test an application, and we get any bug then we log it and assign this to developer.
+
+We log a bug in JIRA (Project management tool) :
+
+There are 3 things that we need to write whenever we log a bug.
+
+1) Steps to replicate the bug
+2) Issue (what is the ssue).
+3) Expected Result (what is something that we are expecting to get from the application).
+
+----------------------------------------------------------------------------------------------
+
+Summary : (small, short and crisp).
+
+Project Name : ABCD
+
+Assign : Developer name
+
+[Steps to replicate]
+Step1 : 
+Step2 : 
+Step3 : 
+
+
+[Issue]
+The bug 
+
+[Expected Result]
+What is somthing that I am expecting from the application/feature etc.
+
+================================================================================================
+
+There is bug like : Login Button is not working on Login Page.
+
+------------------------------------------------------------------------------------------------
+
+Bug Life Cycle : 
+
+Check the recorded videos (screenshots are shared over email).
+
+------------------------------------------------------------------------------------------------
+
+Requirement Traceability Matrix (This topic is only for interview purpose, no-one uses this matrix) : 
+
+- Short form is very famous and its called RTM.
+- This matrix is used to track your test cases with requirment.
+
+Purpose : 
+
+- This matrix make sure that for each requirment, we have atleats one test case.
+- Whenever there is a change in the requirment, then we can say that how many test cases are impacted due to this change.
+
+===============================================================================================
+
+What are the important questions for interview purposes : 
+
+1) Waterfall model
+2) Difference between sanity testing and smoke testing.
+3) Difference between sanity testing and regression testing.
+4) Difference between smoke testing and regression testing.
+5) What is UAT ?
+6) What is the difference between Monkey Testing and Exploratory Testing.
+7) What is the difference between verification and validation.
+8) Difference between Test Case and Test Scenario.
+================================================================================================
+
+05-Feb-2025 : 
+
+How we actual do testing from ZERO TO HERO : 
+
+STEP BY STEP : 
+
+Step1 : 
+
+First of all we have the requirement Doc like BRD : Business Requirement Document. 
+In this doc, we have the high level requirement of the project.
+We have EPIC where in we can have the brief understanding of the project that we need to develop and test.
+
+Step2 :
+We have detailed user stories so that we can have the in depth understanding what we need to build and what we need to test.
+
+Product Owner discusses all the user stories (one by one) with all the developers in a meeting. Meeting is called Backlog Grooming.
+Also, we as a tester need to estimate the user stories like it of 2 points, 3 points, 5 points etc etc.
+Based on the discussion we come to some conclusion like OKAY IT IS FINALLY OF 5 points.
+
+Step3 : 
+In sprint planning we pick the stories what we need to develop and test in a sprint.
+
+Step4 : 
+Now the sprint has been started.
+
+Developers will start developing the user stories.
+
+Testers will pick the stories one by one and will start writing the test cases.
+
+Step5 : 
+Now when the development of any user story is done, then testers will start picking the user stories one by one and will test them.
+
+Testers will log the bug in JIRA (whatever bugs they are facing).
+
+Developers will side by side fixing the bugs as well as will work on other user stories that are assigned to them in that sprint.
+
+Testers will test the bugs also when the bugs are fixed by developers.
+
+Step6 : Once all the user stories of a sprint are done, we can close the sprint and we are good to start the next sprint.
+
+Note : For the next sprint, we need to have the backlog grooming and sprint planning meeting in the currect sprint itself.
+
+Tools like : Excel, JIRA, Test Rail, Assembla, ALM.
+
+==================================================================================================================
+
+JAVA :
+
+Java is a programming language.
+
+Java was created by James Gosling.
+
+Java was developed in 1995.
+
+Why it is so popular ?
+
+WORA (Write Once, Run Anywhere).
+
+Java works on OOPS concepts (Object Oriented Programming).
+
+4 OOPS Concepts in Java : 
+1) Encapsulation
+2) Polymorphism
+3) Inheritance 
+4) Abstraction
+
+WHAT ARE THE 3 IMPORTANT COMPONENTS IN JAVA ECOSYSTEM : 
+
+1) JDK 
+2) JRE
+3) JVM 
+
+JDK : Java Development Kit (Java Development Tool Kit).
+
+JRE : Java Runtime Environment
+
+JVM : Java Virtual Machine 
+
+Important Question for the interview is :
+
+What is the difference between JDK, JRE, and JVM ?
+
+==================================================================================================================
+
+What is the basic set up that we need to do if we need to learn java, write java or execute java code, debug java code and use java code ?
+
+1) Java SetUp
+2) Any IDE like Eclipse/IntelliJ
+
+IDE : Integrated Development Environment
+
+IDE is an application that provides the options/features/tools to write the code, test the code, debug the code, get suggestions in the code, handling the versions of code,
+we can check the project hierarchy in this, we can check the files and folder structure in IDE, we can run the code directly, we can add more plugins in IDE etc etc.
+
+==================================================================================================================
+
+
+It means that IDE(s) are very helpful when we are writing the code.
+
+==================================================================================================================
+
+Download Java : 
+
+1) Download JAVA (from Oracle Website, go to any version lets say 21 and download .exe file).
+2) Install Java (execute the .exe file that you have downloaded in the previous step).
+3) Open Command Prompt. Press Window -> Type "cmd" and the press enter button.
+4) Execute the command in CMD as "java -version".
+
+2 Major Steps that we need to do : 
+
+1) Set the path of "JAVA_HOME" variable :
+
+C:\Program Files\Java\jdk-21.0.4
+
+2) Set the path for "PATH" Variable :
+
+C:\Program Files\Java\jdk-21\bin
+
+Download Eclipse and Install Eclipse : 
+
+Enter Download Eclipse on google and download the eclipse from the first link that you got in google search result.
+Install the downloaded eclipse (eclipse that you downloaded in the above step).
+
+===================================================================================================================
+
+Date : 06-Feb-2025
+
+How to create a Java Project : 
+
+1) Open Eclipse.
+2) Click File
+3) Click New
+4) Click Project
+5) Select "Java Project".
+6) Give any name to this Java Project.
+7) Click Finish.
+
+How to create a Java Class : 
+
+1) Right Click on src folder (src folder is there in your project folder).
+2) Click new.
+3) Click Class.
+4) Give any name to this class (make sure to have the class name stating with the capital letter).
+5) Select the checkbox "public static void main".
+6) click finish.
+
+====================================================================================================================
+
+Java Code always runs (always stars with main method).
+
+It means whenever we are running Java code, it looks for the main method and execute it.
+
+====================================================================================================================
+
+In a class, we have what ??  Methods, Objects and Variables.
+
+Class is a blueprint or a template that is having methods and variable.
+
+Object is an instance of a class. By using an object we can access the methods and variables the class.
+
+===================================================================================================================
+
+How to identify that a particular thing in java is a method.
+
+By checking as if its having the small bracket.
+
+method as main method.
+
+main() 
+
+mwethod name as abc :
+
+abc() 
+
+==================================================================================================================
+
+How to check the scope of a class, scope of a method ?????
+
+By checking its opening curly bracket and closing curly bracket.
+
+=================================================================================================================
+
+How to terminate a line in Java :
+
+By using a semicolon ;
+
+=================================================================================================================
+
+How to print anything in Java :
+
+By using System.out.println("");
+
+=================================================================================================================
+
+How to run a Java Program : 
+
+There are 2 ways to run a Java Program : 
+
+1) Right Click on the class.
+2) Click on Run as.
+3) Select Java Application.
+
+Another way : 
+
+Just click on Run Button.
+
+=================================================================================================================
+
+First Topic is Operators in Java : 
+
+1) Addition +
+2) Subtraction -
+3) Multiplication *
+4) Division /
+5) Modulus Operator
+
+=================================================================================================================
+
+Addition : Doing the summation of numbers.
+
+for numbers we have a data type as int.
+
+Shortcut to print - "System.out.println is Syso -> Ctrl+Space"
+
+Shortcut to delete a line in Eclipse is : Ctrl + d.
+
+package guviNewProject;
+
+public class AdditionOfNumbers {
+
+	public static void main(String[] args) {
+
+		int number1 = 30;
+		
+		int number2 = 40;
+		
+		int sum = number1 + number2;
+		
+		System.out.println("Sum of two numbers is " + sum );
+		
+	}
+
+}
+
+
+================================================================================================================
+
+package guviNewProject;
+
+public class AdditionOfNumbers {
+
+	public static void main(String[] args) {
+
+		int number1 = 30;
+		
+		int number2 = 40;
+		
+		int number3 = 50;
+		
+		int sum = number1 + number2 + number3;
+		
+		System.out.println("Sum of three numbers is " + sum );
+		
+	}
+
+}
+
+
+================================================================================================================
+
+Subtraction : Doing the Subtraction of numbers.
+
+package guviNewProject;
+
+public class SubtactionOfTwoNumbers {
+
+	public static void main(String[] args) {
+		
+		int number1 = 30;
+		
+		int number2 = 20;
+		
+		int subtraction = number1 - number2;
+		
+		System.out.println("Subtraction of two numbers is :: " + subtraction);
+		
+
+	}
+
+}
+
+
+==============================================================================================================
+
+Multiplication : Multiply numbers :
+
+package guviNewProject;
+
+public class MultiplicationOfNumbers {
+
+	public static void main(String[] args) {
+
+		int num1 = 10;
+		
+		int num2 = 20;
+		
+		int multiplication = num1 * num2;
+		
+		System.out.println("multiplication of two numbers is :: " + multiplication);
+		
+		
+	}
+
+}
+
+==============================================================================================================
+
+How to comment in Java : 
+
+One Way : Single Line comment using //
+
+Second Way : Multiple line comment using /* */
+
+
+
+package guviNewProject;
+
+public class SubtactionOfTwoNumbers {
+
+	public static void main(String[] args) {
+		
+		int number1 = 30;  // This is my first number
+		
+		int number2 = 20; // This is my second number
+		
+		int subtraction = number1 - number2; // This is the subtraction of two numbers
+		  
+		System.out.println("Subtraction of two numbers is :: " + subtraction);  // this is to print the subtraction that we did in line number 11
+		
+
+	}
+
+}
+
+
+
+
+
+==============================================================================================================
+
+Division: Divide numbers : 
+
+package guviNewProject;
+
+public class DivisionOfNumbers {
+
+	public static void main(String[] args) {
+		
+		int firstNumber = 10;
+		
+		int secondNumber = 2;
+		
+		int division = firstNumber / secondNumber;
+		
+		System.out.println("Division of two numbers is :: " + division);
+
+	}
+
+}
+
+
+===============================================================================================================
+
+Modulus Operator (To check the reminder of 2 numbers) :
+
+Symbol is %
+
+package guviNewProject;
+
+public class ModulusOfTwoNumbers {
+
+	public static void main(String[] args) {
+		
+		int num1 = 10;
+		
+		int num2 = 2;
+		
+		int modulus = num1 % num2;
+		
+		System.out.println("Modulus of num1 and num2 is :: " + modulus);
+
+	}
+
+}
+
+===============================================================================================================
+
+2 more operators : 
+
+1) single equal =
+2) Double Equal ==
+
+first one is to assign the value.
+second one is to compare two values.
+
+
+==============================================================================================================
+
+Keywords in Java  : 
+
+There are specific words that are reserved by Java that we cant use for declarign any variable name or identifier.
+
+- void
+- String
+- int
+- float
+- char
+- public
+- static
+- main
+- class
+- boolean
+- byte
+- abstract
+- break
+- continue
+- switch
+- case
+- double
+- if
+- else
+- else if
+- this
+- super
+- do 
+- while
+- do while
+- for
+- final
+- finally
+- extends
+- implements
+- protected
+- private
+- default
+- long
+- package
+- short
+- return
+- throw
+- new
+- throws
+- try
+- catch
+- super
+- import
+- enum
+
+==============================================================================================================
+
+Variables and Data Types : 
+
+Data Type : we have data type to define a variable that which type of value it can store.
+
+
+- Primitive Data Type
+- Non Primitive Data Type 
+
+=============================================================================================================
+
+- Primitive Data Type 
+- Non Primitive Data Type 
+- Variables 
+- How many type of variables we have in JAVA.
+- Control statements in java.
+
+=============================================================================================================
+
+Create 6 classes : 
+
+1) Hello Worls Class
+2) Addition class
+3) Subtraction class
+4) Multiplication class
+5) Division Class
+6) modulus class
+
+=============================================================================================================
+
+07-Feb-2025 :
+
+Assignment : 
+
+
+Assignment : 
+
+Write a program which will first do the summation of 2 numbers 4,5 = 9 and then take a new number 10 and multiply it with summation 
+i.e. 9 and result will be 90 and then take a new third number 10 and divide 90 with 10 and the result should be 9 and then 
+take a new fourth number 5 and subtract 9 with 5 and then result should be 4.
+
+We need to print the final output that is 4. (Dont print everything).
+
+====================================================================================================================================
+
+
+You have 15-20 minutes to work on this program.
+
+
+
+Program :
+
+package guviNewProject;
+
+public class Assignment1 {
+
+	public static void main(String[] args) {
+		
+		int num1 = 4;
+		int num2 = 5;
+		
+		int sum = num1 + num2;
+		
+		int num3 = 10;
+		
+		int multiply = sum * num3;
+		
+		int num4 = 10;
+		
+		int division = multiply/num4;
+		
+		int num5 = 5;
+		
+		int subtraction = division - num5;
+		
+		System.out.println("Final output is :: " + subtraction);
+
+	}
+
+}
+
+====================================================================================================================================
+
+How to run the code in Debug Mode : 
+
+First of all add a breakpoint in a line where you want to pause your code.
+(Breakpoint means from where you want to debug your code).
+
+Double click on line number and then a blue round dot will be displayed to you.
+
+Now, run the code in debug mode.
+
+Click on "Step Over" if you want to execute your code line by line without going into the depth of the method.
+Click on "Step Into" if you want to go inside the method and want to see the execution.
+
+====================================================================================================================================
+
+Data Types in Java : 
+
+Majorly there are 2 data types :
+
+1) Primitve Data Type
+2) Non-Primitive Data Type
+
+Primitive Data Type : 
+
+Primitive data type means a type which is used to save the value in a variable.
+
+There are total 8 primitive data types : 
+
+1) int
+2) float
+3) double
+4) short
+5) long
+6) boolean
+7) char
+8) byte 
+
+- short is used to save the small numbers ranging from -32,768 to 32,767 
+
+- int is used to save numbers ranging from -2^31 to 2^31-1 =>    -2,147,483,648 to 2,147,483,647
+
+- long is used to store numbers ranging from -2^63 to 2^63 - 1
+
+- char is used to store the english letters like a-z, A-Z
+
+- boolean is used to store true and false (it means the truthness and the falsification of things/data).
+
+- float is used to store decimal values.
+
+- double is used to store bigger decimal values.
+
+
+=====================================================================================================================
+
+Non-Primitive data type : 
+
+- Non-primitive data types are used to store (not directly the values) but saving the reference of it.
+- Non-primitive data types in java have some predefined methods which we can use directly.
+
+Non-Primitive data types are :
+String, Array, List etc. etc.
+
+====================================================================================================================
+
+Wrapper Class : 
+
+For every primitive data type we have a wrapper class : 
+
+int -> Integer
+boolean -> Boolean
+long -> Long
+
+====================================================================================================================
+
+Variables in Java : 
+
+we have variables in java it means it is thing which is used to store the value and to use it as a reference.
+
+int a = 10;
+
+it means a is variable.
+
+String name = "Himanshu";
+
+name is a variable.
+
+float num = 20.5f;
+
+it means num is a variable.
+
+There are set of rules we need to follow whenever we are using any variable :
+
+1) variable name should start with a letter, underscore (_) or dollar sign ($).
+
+2) No space is allowed in variable name.
+
+3) No keyword can be used as a variable name.
+
+4) variable name is case sensitive.
+
+Rule1 : 
+
+int a = 10;
+
+String name = "Himanshu";
+
+String _myName = "Vaishnavi";
+
+String $learnerName = "Gopi Krishna";
+
+Rule 2 : 
+
+int my number = 10; // This is wrong.
+
+int myNumber = 10; // This is right
+
+Rule 3 : 
+
+int static = 35; // this is wrong because static is a keyword and we cant use keyword as a variable name.
+
+Rule 4 :
+
+
+int myNumber = 10;
+
+int myNUMBER = 20;
+
+
+====================================================================================================================
+
+What do we mean by CamelCasing in Java : 
+
+start a variable name / method name with small Letter and then first letter of every next word should be captial.
+
+int myNewNumber = 10;
+
+String myMentorNameInTheClass = "Himanshu";
+
+String firstLearnerNameInGuviBatch = "Hemavathy";
+
+String secondLearnerNameInGuviBatch = "Arun Vignesh";
+
+We need to follow the camelCasing whenever we are giving the name to a variable or a method.
+
+====================================================================================================================
+
+Types of Variable in Java : 
+
+1) Local Variable.
+2) Instance Variable.
+3) Class Variable.
+
+
+===================================================================================================================
+
+Local Variable : 
+
+It means it has its local scope only. Once the scope is over then we cant use that local variable.
+It is mandatory to initialize a local variable.
+
+public static void method1() {
+
+int num = 10;
+
+}
+
+==================================================================================================================
+
+Instance Variable : 
+
+A variable which is defined outside the method, contructor or any block.
+
+it means to the instance of any class.
+
+
+==================================================================================================================
+
+Class Variable : 
+
+It is used with the keyword as "static".
+The whole class can use this variable.
+
+==================================================================================================================
+
+If Else Conditional Statements : 
+
+String is not a primitive data type.
+
+
+if(condition) {
+
+------
+------
+
+}
+
+else {
+
+----
+----
+
+}
+
+
+Double Equal is used to compare values.
+
+package guviNewProject;
+
+public class IfElseStatements {
+
+	public static void main(String[] args) {
+		
+		int a = 10;
+		
+		int b = 20;
+		
+		if(a==b) {
+			System.out.println("a and b are equal");
+		}
+		
+		else {
+			System.out.println("a and b are not equal");
+		}
+
+	}
+
+}
+
+
+=========================================================================
+
+package guviNewProject;
+
+public class IfElseStatements {
+
+	public static void main(String[] args) {
+		
+		int a = 20;
+		
+		int b = 20;
+		
+		if(a==b) {
+			System.out.println("a and b are equal");
+		}
+		
+		else {
+			System.out.println("a and b are not equal");
+		}
+
+	}
+
+}
+
+
+
+=========================================================================
+
+if (condition){
+---
+}
+
+else if (condition) {
+----
+}
+
+else {
+----
+}
+
+package guviNewProject;
+
+public class IfElseStatements {
+
+	public static void main(String[] args) {
+		
+		int a = 10;
+		
+		int b = 20;
+		
+		if(a>b) {
+			System.out.println("a is greater than b");
+		}
+		
+		else if (b > a) {
+			System.out.println("b is greater than a");
+		}
+		
+		else {
+			System.out.println("a and b are equal");
+		}
+		
+	}
+
+}
+
+
+It is not mandatory to use "else" with "if".
+
+If we need to check some condition in else also, then we will be using "else if" in place of "else".
+
+===============================================================================================================
+
+Switch Case : 
+
+int day;
+
+switch(day) {
+
+case 1:
+SOP("Monday");
+
+case 2 :
+SOP("Tuesday");
+
+case 3 :
+SOP("Wednesday");
+
+default:
+SOP("I dont know what is the day today");
+
+}
+
+What is the use of Default : 
+
+If there is no condition which is matching with the case, then it will by default go in "Default condition".
+
+===============================================================================================================
+
+
+package guviNewProject;
+
+public class SwitchStatementsUnderstanding {
+
+	public static void main(String[] args) {
+
+		int day = 4;
+
+		switch(day) {
+
+		case 1 :
+			System.out.println("Monday");
+			break;
+		case 2 :
+			System.out.println("Tuesday");
+			break;
+		case 3 :
+			System.out.println("Wednesday");
+			break;
+		case 4 :
+			System.out.println("Thursday");
+			break;
+		case 5 :
+			System.out.println("Friday");
+			break;
+		case 6 :
+			System.out.println("Saturday");
+			break;
+		case 7 :
+			System.out.println("Sunday");
+			break;
+		default :
+			System.out.println("I am not sure what is the day today");
+			break;
+		}
+	}
+}
+
+
+package guviNewProject;
+
+public class SwitchStatementsUnderstanding {
+
+	public static void main(String[] args) {
+
+		int day = 80000;
+
+		switch(day) {
+
+		case 1 :
+			System.out.println("Monday");
+			break;
+		case 2 :
+			System.out.println("Tuesday");
+			break;
+		case 3 :
+			System.out.println("Wednesday");
+			break;
+		case 4 :
+			System.out.println("Thursday");
+			break;
+		case 5 :
+			System.out.println("Friday");
+			break;
+		case 6 :
+			System.out.println("Saturday");
+			break;
+		case 7 :
+			System.out.println("Sunday");
+			break;
+		default :
+			System.out.println("I am not sure what is the day today");
+			break;
+		}
+	}
+}
+
+
+===============================================================================================================
+
+
+Looping.
+Arrays.
+Access modifiers.
+Strings Class.
+Constructor,Methods,
+Class & Object Creation
+Use of Static and Instance
+All 4 OOPS Concepts.
+
+===============================================================================================================
+
+Looping : 
+
+
+What is a loop in Java : 
+
+Loops are in java are used to execute some certain code multiple times on the basis of some condition.
+
+For Example : 
+I need to print System.out.println("Himanshu is the mentor"); -- 25 times
+I need to print System.out.println("Gopi Krishna is the learner"); -- 15 times
+
+package guviNewProject;
+
+public class ForLoopUnderstanding {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		System.out.println("Himanshu is the mentor");
+		
+		
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+		System.out.println("Gopi Krishna is the learner");
+
+	}
+
+}
+
+
+1) For Loop
+2) While Loop
+3) Do While Loop
+
+===============================================================================================================
+
+For Loop : 
+
+Syntax : 
+
+for(initialization, condition, increment/decrement) {
+
+}
+
+
+initialization : Initialize a variable with some value.
+condition : till where the loop will be executed.
+increment/decrement : increase or decrease the value of variable (used in initialization).
+
+Note : Never use variable names like i, j, k ===============  Why ?
+
+Answer: It shows that :
+
+1) these variable names are not meaningfull.
+2) these variables names shows that you are a fresher and is new to Java (Coding).
+
+
+package guviNewProject;
+
+
+// Question : I need to Deepika 10 times
+
+public class ForLoopUnderstanding {
+
+	public static void main(String[] args) {
+		printName();
+		}
+	
+	public static void printName() {
+		
+		for(int index=0;index<10;index++) {           // 0,1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+			System.out.println("Deepika");
+		}
+		
+	}
+
+}
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+package guviNewProject;
+
+
+// Question : I need to Deepika 10 times
+
+public class ForLoopUnderstanding {
+
+	public static void main(String[] args) {
+		printName();
+		}
+	
+	public static void printName() {
+		
+		for(int index=1;index<10;index++) {           // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+			System.out.println("Deepika");
+		}
+		
+	}
+
+}
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+package guviNewProject;
+
+
+// Question : I need to Deepika 10 times
+
+public class ForLoopUnderstanding {
+
+	public static void main(String[] args) {
+		printName();
+		}
+	
+	public static void printName() {
+		
+		for(int index=1;index<=10;index++) {           // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+			System.out.println("Deepika");
+		}
+		
+	}
+
+}
+
+
+Nested for loop :
+
+package guviNewProject;
+
+// Question : I need to Deepika 10 times
+
+public class ForLoopUnderstanding {
+
+	public static void main(String[] args) {
+		printName();
+		}
+	
+	public static void printName() {
+		
+		for(int index=1;index<=10;index++) {           // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+			System.out.println("Deepika");
+		
+			for(int count=1;count<=5;count++) {
+				System.out.println("Himanshu");
+			}
+			
+		}
+		
+	}
+
+}
+
+
+===============================================================================================================
+
+package guviNewProject;
+
+// Question : I need to Deepika 10 times
+
+public class ForLoopUnderstanding {
+
+	public static void main(String[] args) {
+		printName();
+		}
+	
+	public static void printName() {
+		
+		for(int index=1;index<=10;index++) {           // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+			System.out.println("Deepika");
+		}
+		
+		for(int count=1;count<=5;count++) {
+			System.out.println("Himanshu");
+		}
+		
+	}
+
+}
+
+===============================================================================================================
+
+package guviNewProject;
+
+// Question : I need to Deepika 10 times
+
+public class ForLoopUnderstanding {
+
+	public static void main(String[] args) {
+		printName();
+		}
+	
+	public static void printName() {
+		
+		for(int index=1;index<=10;index++) {           // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+			System.out.println("Deepika");
+			for(int count=1;count<=10;count++) {
+				System.out.println("Himanshu");
+			for(int value=1;value<=2;value++) {
+				System.out.println("Arun Vignesh");
+			}
+			}
+		}
+		
+	
+		
+	}
+
+}
+
+
+===============================================================================================================
+
+While : 
+
+While(condition)  {
+
+variable++;
+} 
+
+
+package guviNewProject;
+
+public class WhileLoopUnderstanding {
+
+	public static void main(String[] args) {
+
+		int a = 1;
+		
+		while(a<=10) {
+			System.out.println("Surya");
+			a = a+1;
+		}
+		
+	}
+
+}
+
+
+
+
+package guviNewProject;
+
+public class WhileLoopUnderstanding {
+
+	public static void main(String[] args) {
+
+		int a = 1;
+		
+		while(a<=10) {
+			System.out.println("value of a is :: " + a);
+			System.out.println("Surya");
+			a = a+1;
+		}
+		
+	}
+
+}
+
+
+
+===============================================================================================================
+
+do-while loop : 
+
+do {
+
+code 
+
+} while (condition)
+
+Difference between while and do-while loop : 
+
+
+while loop executes on the basis of condition
+
+but do while loop always executes atleast once and then checkes the condition.
+
+
+package guviNewProject;
+
+public class DoWhileLoopUnderstanding {
+
+	public static void main(String[] args) {
+		
+		int a = 5;
+		
+		do {
+			
+			System.out.println("Rosemarry");
+			a = a + 1;
+		}  while (a < 10) ;  
+	
+		
+	}
+
+}
+
+
+WAP to Print something 10 times using for loop.
+WAP to Print something 10 times using while loop.
+WAP to Print something 10 times using do-while loop.
+
+
+===============================================================================================================
+
+Access Modifiers :
+
+Access Modifier is what ?
+
+Modifiers are used in Java to give the access to the members of a class to a certain level.
+
+1) public
+2) private
+3) protected
+4) default
+
+public means : 
+
+1) Same Class - yes
+2) Same Package - yes
+3) Subclass of different package - yes
+4) All classes - yes
+
+private means : 
+
+1) same class - yes
+2) same package - No
+3) subclass of different package - No
+4) All classes - No
+
+protected means : 
+
+1) same class - yes
+2) same package - yes
+3) subclass of different package - yes
+4) All classes - No
+
+default (whever we are not using any public, private or protected keyword, it means that is using default modifier automatically).
+
+1) same class - yes
+2) same package - yes
+3) subclass of different package - No
+4) All classes - No
+
+===============================================================================================================
+
+Array : 
+
+Whenever we need to store more than 1 value of same data type, in that we use Arrays.
+
+Syntax : 
+
+Leys say i need to store 10 values of same data type as Integer.
+
+int[] arrayName = new int[lengthOfArray];
+
+Advantage of Using Array : 
+It can store values of same data type.
+
+Disadvange : 
+Array is fixed in length and the length of an array can be a waste when it is not utilized.
+
+Important Point in Java is : 
+
+Indexing always starts with Zero (not 1).
+
+
+10,20,30,40,50,60,70,80,90,100
+
+0,1,2,3,4,5,6,7,8,9
+
+How to find the length of an array : 
+
+using length property of Array.
+
+array.lenth;
+
+by default the value of int variable is 0.
+by default the value of String variable is null.
+by default the value of boolean variable is false.
+
+IMPORTANT Interview Question :
+
+When we get "ArrayIndexOutOfBoundException" ?
+
+
+package guviNewProject;
+
+public class ArrayUnderstanding {
+
+	public static void main(String[] args) {
+		
+//		int[] arrayName = new int[lengthOfArray];
+		
+		int[] myArray = new int[5];
+		
+		myArray[0] = 10;
+		myArray[1] = 20;
+		
+		int length = myArray.length;
+	
+		for(int count=0;count<=length;count++) {  // 0
+			System.out.println("value at " + count + " is " + myArray[count]);
+		}
+		
+
+	}
+
+}
+
+
+
+package guviNewProject;
+
+public class ArrayUnderstanding {
+
+	public static void main(String[] args) {
+		
+//		int[] arrayName = new int[lengthOfArray];
+		
+		int[] myArray = new int[5];
+		
+		myArray[0] = 10;
+		myArray[1] = 20;
+		
+		int length = myArray.length;
+	
+		for(int count=0;count<=length-1;count++) {  // 0
+			System.out.println("value at " + count + " is " + myArray[count]);
+		}
+		
+
+	}
+
+}
+
+
+package guviNewProject;
+
+public class ArrayUnderstanding {
+
+	public static void main(String[] args) {
+		
+//		int[] arrayName = new int[lengthOfArray];
+		
+		int[] myArray = new int[5];
+		
+		myArray[0] = 10;
+		myArray[1] = 20;
+		
+		int length = myArray.length;
+	
+		for(int count=0;count<length;count++) {  // 0
+			System.out.println("value at " + count + " is " + myArray[count]);
+		}
+		
+
+	}
+
+}
+
+
+Another way to declare an array : 
+
+package guviNewProject;
+
+public class ArrayUnderstanding {
+
+	public static void main(String[] args) {
+		
+//		int[] arrayName = new int[lengthOfArray];
+		
+		int[] myArray = {2,3,4,5}; // 2 things are happening here -> A fixed array length of 4 is created. Values are assigned to all the positions.
+		
+		int myArrayLength = myArray.length;
+		
+		for(int count=0;count<myArrayLength;count++) {
+			System.out.println(myArray[count]);
+		}
+		
+		
+
+	}
+
+}
+
+
+package guviNewProject;
+
+public class ArrayUnderstanding {
+
+	public static void main(String[] args) {
+		
+//		int[] arrayName = new int[lengthOfArray];
+		
+		String[] myStrArray = {"Himanshu", "Gopi Krishna"};
+		
+		System.out.println(myStrArray[0]);
+		
+		System.out.println(myStrArray[1]);
+
+	}
+
+}
+
+
+
+
+===============================================================================================================
+
+Take twoo numbers from user and then swap the numbers (using 3rd variable) and then print the swapped numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
